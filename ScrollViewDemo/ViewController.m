@@ -13,7 +13,8 @@
 @end
 
 @implementation ViewController
-
+@synthesize viewObj;
+@synthesize scrollviewobj;
 - (void)viewDidLoad
 {
     [super viewDidLoad];
